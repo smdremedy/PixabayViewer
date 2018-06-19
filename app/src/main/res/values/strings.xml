@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pixabay Viewer</string>
+
+    <string name="search">Search</string>
+    <string name="favourites">Favourites</string>
+
+    <string name="search_for_images">Search for images</string>
+    <string name="add_to_favourites">Add to favourites</string>
+    <string name="delete">Delete</string>
+    <string name="open_in_browser">Open in browser</string>
+</resources>
